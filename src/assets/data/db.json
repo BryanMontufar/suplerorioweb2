@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "email": "user@yop.com",
+      "password": "$2a$10$OaK8Rf/yP3l87TIkB.jjaOdIsG0synKBVlZGPB2dNiLbGN4La/sUS",
+      "id": 1,
+      "role": "User"
+    },
+    {
+      "email": "user1@hotmail.com",
+      "password": "$2a$10$MAKTrgozF3NhqenYC7Oi1.LsSCcjE6VnHisiDQRh4AbcG1xoPIBsW",
+      "role": "User",
+      "id": 2
+    },
+    {
+      "email": "user2@hotmail.com",
+      "password": "$2a$10$RA985TLniv7oTABWOqdVUezrlFNxr0NRZhQgK/t8ZYC5VC398J5Re",
+      "role": "User",
+      "id": 3
+    },
+    {
+      "email": "user3@hotmail.com",
+      "password": "$2a$10$PsiU4w16QsrduxVkHKs8QOGHAiE/EDsKiPznbR53xfQeaB61JmHA2",
+      "role": "User",
+      "id": 4
+    }
+  ],
+  "personal": [
+    {
+      "id": "171646575432",
+      "nombre": "user1edit",
+      "apellido": "user1",
+      "domicilio": "useruseruser"
+    }
+  ],
+  "juegos": [
+    {
+      "id": 1,
+      "titulo": "un titulo",
+      "descripcion": "uno descripcion",
+      "precio": 5,
+      "plataforma":"steam",
+      "imagen": "https://img.freepik.com/fotos-premium/imagen-colorida-juego-fondo-verde-azul_1031776-175285.jpg"
+      
+    },
+    {
+      "id": 2,
+      "titulo": "un titulo",
+      "descripcion": "uno descripcion",
+      "precio": 10,
+      "plataforma":"steam",
+      "imagen": "https://img.freepik.com/fotos-premium/imagen-colorida-juego-fondo-verde-azul_1031776-175285.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "un titulo",
+      "descripcion": "uno descripcion",
+      "precio": 15,
+      "plataforma":"steam",
+      "imagen": "https://img.freepik.com/fotos-premium/imagen-colorida-juego-fondo-verde-azul_1031776-175285.jpg"
+    }
+  ]
+}
